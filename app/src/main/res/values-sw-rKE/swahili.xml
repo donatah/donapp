@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">donapp</string>
+    <string name="eat">kula</string>
+    <string name="cook">kupika</string>
+    <string name="drink">kunywa</string>
+</resources>
